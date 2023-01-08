@@ -50,6 +50,9 @@ text-transform: uppercase;
 .logo-web {
 color: var(--secondary-accent-color);
 }
+.logo-studio{
+color: var(--primary-text-color);   
+}
 
 .navigation-link {
     font-weight: 600;
