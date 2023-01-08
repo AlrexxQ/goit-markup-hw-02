@@ -38,10 +38,7 @@ text-transform: capitalize;
 }
 
 
-.index-header{
-}
-.navigation {
-}
+
 .logo-link {
 font-family: 'Raleway', sans-serif;
 font-weight: 800;
@@ -53,13 +50,7 @@ text-transform: uppercase;
 .logo-web {
 color: var(--secondary-accent-color);
 }
-.logo-studio{
-}
-.navigation-list {
 
-}
-.navigation-items {
-}
 .navigation-link {
     font-weight: 600;
     font-size: 16px;
@@ -70,12 +61,7 @@ color: var(--primary-text-color)
 .navigation-link:focus {
     color: var(--secondary-accent-color);
 }
-.address {
-}
-.address-list {
-}
-.address-item {
-}
+
 .addres-mail,.addres-tel {
     font-style: normal;
     font-size: 16px;
@@ -120,8 +106,7 @@ color: var(--primary-text-color)
     background-color: var(--secondary-accent-color);
 }
 /* ============ Work ============ */
-.work {
-}
+
 .visually-hidden {
     position: absolute;
     white-space: nowrap;
@@ -134,51 +119,22 @@ color: var(--primary-text-color)
     clip-path: inset(50%);
     margin: -1px;
 }
-.work-list {
-}
-.list {
-}
-.work-item {
-}
-.work-name {
-}
-.name {
-}
-.work-content {
-}
-.content {
-}
+
 /* ============ Doing ============ */
-.doing {
-}
-.doing-title {
-}
-.doing-list {
-}
-.list {
-}
-.duing-item {
-}
+
 /* ============ Team ============ */
 .team {
     background-color: var(--dark-background-text);
 }
-.team-title {
-}
-.team-list {
-}
-.list {
-}
+
 .team-name {
     text-align: center;
 }
-.name {
-}
+
 .team-content {
     text-align: center;
 }
-.content {
-}
+
 /* ============ Portfolio ============ */
 .filter-btn {
     font-family: inherit;
